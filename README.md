@@ -4,7 +4,7 @@ Accelerators such as GPUs are prevalent both within personal computing as well a
 
 This "hello world" lab is designed to lectures which provide some insight into GPU architectures and insight into developing GPU code using CUDA.
 
-To get started you will need a Python environment with the `jupyter-lab` package installed. The preferred method is to install this inside a virtual environment.
+To get started you will need a Python environment with the `jupyterlab` package installed. The preferred method is to install this inside a [virtual environment](https://realpython.com/python-virtual-environments-a-primer/).
 
 You can then launch the notebook using
 
